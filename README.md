@@ -18,7 +18,7 @@
 ## 🤓 Author 
 <table>
   <tr>
-    <td align="center"><a href="https://media-exp1.licdn.com/dms/image/C5603AQH44ljyR-Io0A/profile-displayphoto-shrink_400_400/0/1641742228028?e=1652918400&v=beta&t=Cx3VFprfg1SLc4Awh9dvQlBYRye2xqh1yg-uCIfR6uU" width="100px;" alt=""/><br /><sub><b>Lucas Bivar</b></sub></a><br /><a href="https://github.com/lucasbivar" title="Code">💻</a></td>
+    <td align="center"><a href="https://media-exp1.licdn.com/dms/image/C5603AQH44ljyR-Io0A/profile-displayphoto-shrink_400_400/0/1641742228028?e=1652918400&v=beta&t=Cx3VFprfg1SLc4Awh9dvQlBYRye2xqh1yg-uCIfR6uU" width="100px;" alt=""/><br /><sub><b>Akash Kumar Shaw</b></sub></a><br /><a href="https://github.com/akashxlr8" title="Code">💻</a></td>
   <tr>
 </table>
 
